@@ -148,8 +148,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "walls",
+    "path": "folders/Sprites/walls.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_wallSides",
