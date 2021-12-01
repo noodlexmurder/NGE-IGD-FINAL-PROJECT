@@ -55,6 +55,7 @@
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},"order":19,},
     {"id":{"name":"spr_wallTopBottom","path":"sprites/spr_wallTopBottom/spr_wallTopBottom.yy",},"order":36,},
     {"id":{"name":"snd_doorOpen","path":"sounds/snd_doorOpen/snd_doorOpen.yy",},"order":2,},
+    {"id":{"name":"obj_testObject","path":"objects/obj_testObject/obj_testObject.yy",},"order":29,},
     {"id":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"order":10,},
     {"id":{"name":"rm_gameStart","path":"rooms/rm_gameStart/rm_gameStart.yy",},"order":1,},
     {"id":{"name":"spr_upgradeChainHighlighted","path":"sprites/spr_upgradeChainHighlighted/spr_upgradeChainHighlighted.yy",},"order":29,},
